@@ -1,0 +1,17 @@
+{
+  "name": "plump-responsive-settings",
+  "version": "0.1.0",
+  "authors": [
+    "Jon Hurrell <jon@plumpdigital.co.uk>"
+  ],
+  "description": "Responsive settings for the plumpcss framework",
+  "main": "_settings.responsive.scss",
+  "keywords": [
+    "css",
+    "oocss",
+    "plumpcss",
+    "settings"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.plumpdigital.co.uk/"
+}
