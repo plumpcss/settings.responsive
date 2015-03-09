@@ -32,8 +32,3 @@
 		'desk-wide'     'screen and (min-width: 64.9375em)',
 	) !default;
 }
-
-
-// If we have included this file, set a variable to tell the rest of the
-// framework that we have some responsive settings.
-$plump-responsive-settings: true;
