@@ -7,6 +7,13 @@
 // These can be invoked later on via the `media-query()` mixin found in
 // `_tools.responsive`.
 
+// Predefine the variables below in order to alter and enable specific features.
+$plump-enable-retina: false !default;
+
+
+
+
+
 @if $plump-enable-retina == true {
 
 	$breakpoints: (
